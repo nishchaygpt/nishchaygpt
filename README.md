@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: API Testing
 - 💞️ I’m looking to collaborate on: any Testing Project
 - 📫 How to reach me: nishchay.gupta.here@gmail.com
-- 😄 Pronouns: He/Hime
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a PRO at making Tea
 
 <!---
