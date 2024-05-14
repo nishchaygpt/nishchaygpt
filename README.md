@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishchaygpt
 - 👀 I’m interested in: Automation Testing
-- 🌱 I’m currently learning: API Testing
+- 🌱 I’m currently learning: Cucumber
 - 💞️ I’m looking to collaborate on: any Testing Project
 - 📫 How to reach me: nishchay.gupta.here@gmail.com
 - 😄 Pronouns: He/Him
